@@ -21,7 +21,8 @@ jobs:
 
       # 2. This generates the animation files
       - name: Generate Snake SVG
-        uses: Platane/snk@v3
+        - uses: platane/snk@b41ae4daa18ba653ab8403f5e1d4e93c5b5d5e3d
+          - uses: crazy-max/ghaction-github-pages@f2e6cd25cfef7a05a5252a636e36b7cfb3e70c7a
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
