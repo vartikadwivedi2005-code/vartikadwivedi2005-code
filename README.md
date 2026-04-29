@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Vartika!
 
 <p align="center">
-  <img src="./banner.png" alt="Vartika's First Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/main/banner.png" alt="Vartika's First Profile Banner" width="100%" />
 </p>
 
 ---
