@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](https://github.com/vartikadwivedi2005-code/vartikadwivedi2005-code/blob/main/"C:\Users\Acer\Downloads\Gemini_Generated_Image_88kp0088kp0088kp.png"?raw=true)
+![Banner](https://github.com/vartikadwivedi2005-code/vartikadwivedi2005-code/blob/main/"C:\Users\Acer\Downloads\C:\Users\Acer\Downloads\Gemini_Generated_Image_88kp0088kp0088kp.png"?raw=true)
 
 ### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,java,python,figma,aws)](https://skillicons.dev)
