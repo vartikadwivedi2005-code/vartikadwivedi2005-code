@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/main/C:\Users\Acer\Downloads\Gemini_Generated_Image_88kp0088kp0088kp.png)
+![Banner](https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/main/C:\Users\Acer\Downloads\banner.png)
 
 
 ### 🛠 Tech Stack
