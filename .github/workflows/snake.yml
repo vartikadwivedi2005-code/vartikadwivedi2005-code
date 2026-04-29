@@ -12,12 +12,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # This gives the action permission to save the file
+      contents: write
     
     steps:
+      # 1. This must always be the first step
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # 2. This generates the animation files
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
@@ -28,6 +30,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 3. This pushes the files to a branch called 'output'
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
