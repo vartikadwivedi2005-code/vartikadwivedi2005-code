@@ -39,7 +39,7 @@ I enjoy building solutions using a diverse range of tools and languages.
 Here is a live snake game navigating through my last year of contributions! **(To activate this, see the instructions below the code box.)**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/github-contribution-grid-snake.svg" alt="Vartika's Contribution Snake Game" />
+  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/github-contribution-grid-snake.yml" alt="Vartika's Contribution Snake Game" />
 </p>
 
 ---
