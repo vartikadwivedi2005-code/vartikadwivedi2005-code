@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Banner](https://github.com/your-username/your-repo/blob/main/banner.png?raw=true)
 [![My Skills](https://skillicons.dev/icons?i=js,react,java,python,figma,aws)](https://skillicons.dev)
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=vartikadwivedi2005-code&show_icons=true&theme=tokyonight)
 <!--
 **vartikadwivedi2005-code/vartikadwivedi2005-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
