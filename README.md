@@ -6,16 +6,14 @@
       <td bgcolor="#F0F8FF" align="center" style="border-radius: 20px; padding: 40px;">
         <!-- Bold Name in a clean, professional style -->
         <h1 align="center">
-          <font color="#2F4F4F" face="Segoe UI, Tahoma, Geneva, Verdana, sans-serif">
+          <font color="pink" face="Segoe UI, Tahoma, Geneva, Verdana, sans-serif">
             <b>VARTIKA DWIVEDI</b>
           </font>
         </h1>
         <!-- Animated Typing SVG inside the same light box -->
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4682B4&center=true&vCenter=true&width=450&lines=Creative+Coder;Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer" alt="Typing Animation" />
         <br>
-        <p align="center">
-           <font color="#708090"><i>"Code is the canvas, and logic is the brush."</i></font>
-        </p>
+       
       </td>
     </tr>
   </table>
