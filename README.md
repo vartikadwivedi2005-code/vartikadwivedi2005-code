@@ -3,14 +3,16 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td bgcolor="pink" align="center" style="border-radius: 25px; padding: 50px;">
+      <!-- Lightened the background color to a very pale lavender-white -->
+      <td bgcolor="#FBFAFF" align="center" style="border-radius: 30px; padding: 50px; border: 1px solid #F3E5F5;">
         <br>
         <h1 align="center">
           <font color="#6A1B9A" face="Georgia, serif">
             <b>VARTIKA DWIVEDI</b>
           </font>
         </h1>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E24AA&center=true&vCenter=true&width=450&lines=Creative+Coder;Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer" alt="Typing Animation" />
+        <!-- Animation color matches the lavender/purple aesthetic -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9C27B0&center=true&vCenter=true&width=450&lines=Creative+Coder;Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer" alt="Typing Animation" />
         <br><br>
   </table>
 </div>
