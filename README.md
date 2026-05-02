@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Vartika!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/main/banner.png" alt="Vartika's First Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/main/banner.png" alt="Vartika's Profile Banner" width="100%" />
 </p>
 
 ---
@@ -11,7 +11,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 * 🔭 **Currently focused on:** Developing core development skills and exploring web technologies.
 * 🌱 **Learning Path:** Deep-diving into **Java** and **C++** to master data structures and algorithms.
-* 🎨 **Artistry:** Creating **Mandala Art**, bringing calm, focus, and intricate design into both my physical and digital creations.
+* 🎨 **Artistry:** Creating **Mandala Artist**, bringing calm, focus, and intricate design into both my physical and digital creations.
 * 👯 **Open to:** Collaborating on creative coding projects and UI/UX improvements.
 * 💬 **Ask me about:** The intersection of art and programming, or my practice routines.
 
@@ -20,7 +20,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 ### 🛠 Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,sql,html,css,js,git,vscode,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,sql,html,css,js,git,vscode,github&theme=light" />
   </a>
 </p>
 
@@ -33,27 +33,27 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/dist/github-contribution-grid-snake.svg" alt="Vartika's Contribution Snake" />
 </p>
 
-#### 📊 Contribution Graph
+#### 📊 Activity Graph (Monochrome Theme)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vartikadwivedi2005-code&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vartikadwivedi2005-code&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" width="100%" />
 </p>
 
 #### 🚀 Profile Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vartikadwivedi2005-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vartikadwivedi2005-code&show_icons=true&theme=flat&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=flat&hide_border=true" height="180" />
 </p>
 
 ---
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vartika-dwivedi-38b638313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vartika Dwivedi" height="30" width="40" /></a>
-<a href="mailto:vartikadwivedi2005@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="vartikadwivedi2005@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vartika-dwivedi-38b638313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vartika Dwivedi LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:vartikadwivedi2005@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="vartikadwivedi2005@gmail.com" height="30" width="40" />
+</a>
 </p>
 
 ---
