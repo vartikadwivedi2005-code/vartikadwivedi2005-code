@@ -5,17 +5,23 @@ on:
     # Run automatically every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch: # Allow running manually
+  push:
+    branches:
+      - main # Also runs when you push to main
 
 jobs:
   generate:
+    permissions: 
+      contents: write # Essential for the push step to work
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -25,7 +31,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Snake SVG to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
