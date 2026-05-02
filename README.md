@@ -28,7 +28,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 #### ⚙️ Tools & Software
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,pycharm,figma,canvas&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,gemini,canvas&theme=dark" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 ---
 
 <p align="center">
-  <b>✨ Thought for the Day ✨</b><br>
+  <b>✨ Daily Motto ✨</b><br>
   <i>"Code is the canvas, and logic is the brush."</i>
 </p>
 
