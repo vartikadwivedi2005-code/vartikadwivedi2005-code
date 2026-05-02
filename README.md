@@ -1,7 +1,9 @@
 ## Hi there 👋, I'm Vartika!
 
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/main/banner.png" alt="Vartika's Profile Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Intricate+Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer" alt="Typing SVG" />
 </p>
 
 ---
@@ -49,7 +51,9 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 ---
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 ### 📬 Connect with Me
 <p align="center">
