@@ -3,16 +3,29 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td bgcolor="#F0F8FF" align="center" style="border-radius: 20px; padding: 40px;">
-        <!-- Bold Name in a clean, professional style -->
+      <!-- Background changed to a soft Lavender (#F3E5F5) -->
+      <td bgcolor="#F3E5F5" align="center" style="border-radius: 25px; padding: 50px; border: 2px solid #E1BEE7;">
+        
+        <!-- Name in Bold with a deep Plum color for contrast -->
         <h1 align="center">
-          <font color="pink" face="Segoe UI, Tahoma, Geneva, Verdana, sans-serif">
+          <font color="#6A1B9A" face="Georgia, serif">
             <b>VARTIKA DWIVEDI</b>
           </font>
         </h1>
-        <!-- Animated Typing SVG inside the same light box -->
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4682B4&center=true&vCenter=true&width=450&lines=Creative+Coder;Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer" alt="Typing Animation" />
-        <br>
+
+        <!-- Typing Animation: Colors adjusted to match the lavender theme -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E24AA&center=true&vCenter=true&width=450&lines=Creative+Coder;Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer" alt="Typing Animation" />
+        
+        <br><br>
+        
+        <!-- A subtle divider line -->
+        <hr width="50%" size="1" color="#CE93D8">
+        
+        <p align="center">
+           <font color="#4A148C" face="Verdana"><i>"Code is the canvas, and logic is the brush."</i></font>
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
