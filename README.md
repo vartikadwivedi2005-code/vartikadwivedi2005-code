@@ -6,55 +6,58 @@
 
 ---
 
-### About Me
+### 🎨 About Me
 I am a **Creative Coder & Mandala Artist** with a passion for blending intricate visual art with structured code. I'm dedicated to learning new technologies and exploring innovative ways to express my creativity through code.
 
-<div style="display: flex; gap: 20px; align-items: flex-start; margin-top: 15px;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🔭 I'm currently focused on developing my core development skills and exploring web technologies.</li>
-      <li>🌱 I'm currently deep-diving into **Java** and **C++** to master data structures and algorithms.</li>
-      <li>🎨 I enjoy creating **Mandala Art**, bringing calm, focus, and intricate design into both my physical and digital creations.</li>
-      <li>👯 I'm looking to collaborate on creative coding projects and UI/UX improvements.</li>
-      <li>💬 Ask me about the intersection of art and programming, or how I structure my practice routines for both.</li>
-      <li>📫 How to reach me: You can connect with me on LinkedIn [your-link-here] or via email at [your-email-here].</li>
-    </ul>
-  </div>
-</div>
+* 🔭 **Currently focused on:** Developing core development skills and exploring web technologies.
+* 🌱 **Learning Path:** Deep-diving into **Java** and **C++** to master data structures and algorithms.
+* 🎨 **Artistry:** Creating **Mandala Art**, bringing calm, focus, and intricate design into both my physical and digital creations.
+* 👯 **Open to:** Collaborating on creative coding projects and UI/UX improvements.
+* 💬 **Ask me about:** The intersection of art and programming, or my practice routines.
 
 ---
 
-### 🛠 Tech Stack
-I enjoy building solutions using a diverse range of tools and languages.
-
-<p align="center">
+### 🛠 Tech Stack & Tools
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c++,python,js,css,sql&theme=light" alt="Vartika's Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,sql,html,css,js,git,vscode,github&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
-Here is a live snake game navigating through my last year of contributions! **(To activate this, see the instructions below the code box.)**
+### 📈 GitHub Activities
+
+#### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/dist/github-contribution-grid-snake.svg" alt="Vartika's Contribution Snake" />
+</p>
+
+#### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vartikadwivedi2005-code&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+#### 🚀 Profile Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vartikadwivedi2005-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/dist/github-contribution-grid-snake.svg" alt="Vartika's Contribution Snake Game" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Streak Graph
-Here is a complete look at my development activity and commitment consistency.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vartikadwivedi2005-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vartika's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=tokyonight&hide_border=true" alt="Vartika's GitHub Streak" />
+### 📬 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vartika Dwivedi" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@example.com" height="30" width="40" /></a>
 </p>
 
-
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true" alt="Vartika's Top Languages" />
+  <i>"Code is the canvas, and logic is the brush."</i>
 </p>
