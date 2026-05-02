@@ -49,6 +49,8 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
 ### 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vartika-dwivedi-38b638313" target="blank">
@@ -65,10 +67,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 ---
 
 
-### 🎨 Featured Artworks
-| Monochrome Intricacy | Colorful Geometry | Digital Zen |
-| :---: | :---: | :---: |
-| <img src="URL_TO_ART_1" width="200" height="200" /> | <img src="URL_TO_ART_2" width="200" height="200" /> | <img src="URL_TO_ART_3" width="200" height="200" /> |
+
 
 <p align="center">
   <b>✨ Daily Motto ✨</b><br>
