@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Vartika!
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Intricate+Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=300&section=header&text=Vartika%20Dwivedi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Creative%20Coder%20%7C%20Mandala%20Artist&descAlignY=51&descSize=20" width="100%" />
 </p>
+
+
 
 ---
 
