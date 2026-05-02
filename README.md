@@ -1,14 +1,10 @@
 ## Hi there 👋, I'm Vartika!
 
-
 <p align="center">
-  <!-- This creates the background "card" with your name -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=200&section=header&text=VARTIKA%20DWIVEDI&fontSize=50&fontColor=7aa2f7&animation=fadeIn" width="100%" />
+  <img src="[https://capsule-render.vercel.app/api?type=soft&color=e6f3ff&height=250&section=header&text=VARTIKA%20DWIVEDI&fontSize=70&fontColor=333333&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&color=e6f3ff&height=250&section=header&text=VARTIKA%20DWIVEDI&fontSize=70&fontColor=333333&animation=fadeIn)" width="100%" />
 </p>
-
 <p align="center">
-  <!-- This is the typing animation that sits right under your name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=bb9af7&center=true&vCenter=true&width=500&lines=Creative+Coder;Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Creative+Coder;Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=Creative+Coder;Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer)" alt="Typing SVG" />
 </p>
 
 ---
