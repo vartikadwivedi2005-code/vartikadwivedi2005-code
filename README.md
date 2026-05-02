@@ -13,9 +13,6 @@
         <!-- Animated Typing SVG inside the same light box -->
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4682B4&center=true&vCenter=true&width=450&lines=Creative+Coder;Mandala+Artist;Python+%26+Java+Developer;Aesthetic+Designer" alt="Typing Animation" />
         <br>
-       
-      </td>
-    </tr>
   </table>
 </div>
 
