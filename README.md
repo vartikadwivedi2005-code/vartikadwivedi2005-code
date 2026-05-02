@@ -64,6 +64,12 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 ---
 
+
+### 🎨 Featured Artworks
+| Monochrome Intricacy | Colorful Geometry | Digital Zen |
+| :---: | :---: | :---: |
+| <img src="URL_TO_ART_1" width="200" height="200" /> | <img src="URL_TO_ART_2" width="200" height="200" /> | <img src="URL_TO_ART_3" width="200" height="200" /> |
+
 <p align="center">
   <b>✨ Daily Motto ✨</b><br>
   <i>"Code is the canvas, and logic is the brush."</i>
