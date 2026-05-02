@@ -1,49 +1,3 @@
-## Hi there 👋, I'm Vartika!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/main/banner.png" alt="Vartika's Profile Banner" width="100%" />
-</p>
-
----
-
-### 🎨 About Me
-I am a **Creative Coder & Mandala Artist** with a passion for blending intricate visual art with structured code. I'm dedicated to learning new technologies and exploring innovative ways to express my creativity through code.
-
-* 🔭 **Currently focused on:** Developing core development skills and exploring web technologies.
-* 🌱 **Learning Path:** Deep-diving into **Java** and **C++** to master data structures and algorithms.
-* 🎨 **Artistry:** Creating **Mandala Artist**, bringing calm, focus, and intricate design into both my physical and digital creations.
-* 👯 **Open to:** Collaborating on creative coding projects and UI/UX improvements.
-* 💬 **Ask me about:** The intersection of art and programming, or my practice routines.
-
----
-
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,c,python,sql,html,css,js,git,vscode,github&theme=light" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Activities
-
-#### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/dist/github-contribution-grid-snake.svg" alt="Vartika's Contribution Snake" />
-</p>
-
-#### 📊 Activity Graph (Monochrome Theme)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vartikadwivedi2005-code&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" width="100%" />
-</p>
-
-#### 🚀 Profile Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vartikadwivedi2005-code&show_icons=true&theme=flat&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=flat&hide_border=true" height="180" />
-</p>
-
 ---
 
 ### 📬 Connect with Me
@@ -59,5 +13,10 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 ---
 
 <p align="center">
+  <b>✨ Daily Motto ✨</b><br>
   <i>"Code is the canvas, and logic is the brush."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%"/>
 </p>
