@@ -3,7 +3,7 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td bgcolor="lavendar" align="center" style="border-radius: 25px; padding: 50px;">
+      <td bgcolor="pink" align="center" style="border-radius: 25px; padding: 50px;">
         <br>
         <h1 align="center">
           <font color="#6A1B9A" face="Georgia, serif">
