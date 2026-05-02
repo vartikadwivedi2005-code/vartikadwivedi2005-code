@@ -41,9 +41,17 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/dist/github-contribution-grid-snake.svg" alt="Vartika's Contribution Snake" />
 </p>
 
-<h4 align="center">📊 LeetCode & GitHub Stats</h4>
+<h4 align="center">📊 GitHub Stats</h4>
+### 📈 Activity & Contributions
+
+<h4 align="center">🐍 Contribution Snake</h4>
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=Vartika_Dwi&theme=dark" alt="LeetCode Stats" height="180" />
+  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/dist/github-contribution-grid-snake.svg" alt="Vartika's Contribution Snake" />
+</p>
+
+<h4 align="center">📊 Activity Graph</h4>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vartikadwivedi2005-code&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
