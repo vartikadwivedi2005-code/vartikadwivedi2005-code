@@ -52,7 +52,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 ### 📬 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vartika Dwivedi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vartika-dwivedi-38b638313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vartika Dwivedi" height="30" width="40" /></a>
 <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email@example.com" height="30" width="40" /></a>
 </p>
 
