@@ -67,7 +67,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 ---
 
 <p align="center">
-  <b>✨ Thought for the Day ✨</b><br>
+  <b>✨ Daily Motto ✨</b><br>
   <i>"Code is the canvas, and logic is the brush."</i>
 </p>
 
