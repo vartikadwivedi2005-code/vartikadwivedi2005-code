@@ -53,6 +53,13 @@ Here is a complete look at my development activity and commitment consistency.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=tokyonight&hide_border=true" alt="Vartika's GitHub Streak" />
 </p>
 
+📈 Contribution Graph
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishviagrawal06&theme=react-dark&hide_border=true&area=true&cache_seconds=86400" />
+
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true" alt="Vartika's Top Languages" />
 </p>
