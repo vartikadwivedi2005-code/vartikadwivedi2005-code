@@ -41,13 +41,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/dist/github-contribution-grid-snake.svg" alt="Vartika's Contribution Snake" />
 </p>
 
-<h4 align="center">📊 GitHub Stats</h4>
-### 📈 Activity & Contributions
-
-<h4 align="center">🐍 Contribution Snake</h4>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vartikadwivedi2005-code/vartikadwivedi2005-code/output/dist/github-contribution-grid-snake.svg" alt="Vartika's Contribution Snake" />
-</p>
 
 <h4 align="center">📊 Activity Graph</h4>
 <p align="center">
