@@ -4,7 +4,7 @@
   <table border="0">
     <tr>
       <!-- Lightened the background color to a very pale lavender-white -->
-      <td bgcolor="#FBFAFF" align="center" style="border-radius: 30px; padding: 50px; border: 1px solid #F3E5F5;">
+      <td bgcolor="#FFF5F7" align="center" style="border-radius: 30px; padding: 50px; border: 1px solid #F3E5F5;">
         <br>
         <h1 align="center">
           <font color="#6A1B9A" face="Georgia, serif">
