@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- This creates the background "card" with your name -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=200&section=header&text=VARTIKA%20DWIVEDI&fontSize=70&fontColor=7aa2f7&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=200&section=header&text=VARTIKA%20DWIVEDI&fontSize=50&fontColor=7aa2f7&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
