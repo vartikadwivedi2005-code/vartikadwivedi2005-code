@@ -92,9 +92,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%"/>
 </p>
 
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vartikadwivedi2005-code&color=9C27B0&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
 </p>
