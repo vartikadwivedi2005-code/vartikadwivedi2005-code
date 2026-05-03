@@ -26,11 +26,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 * 🌱 **Learning Path:** Mastering **Java** and **C++** for Data Structures & Algorithms.
 * 🎨 **Artistry:** Specialist in **Mandala Art**, bringing intricate design to digital spaces.
 * 💬 **Ask me about:** The intersection of art and programming.
-<p align="center">
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interact=true&bar_color=9C27B0&bar_color_cover=false" />
-  </a>
-</p>
 
 ---
 
@@ -98,6 +93,10 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vartikadwivedi2005-code&repo=YOUR_BEST_REPO&theme=tokyonight&hide_border=true" />
 </p>
 
 
