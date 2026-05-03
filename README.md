@@ -29,6 +29,11 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 ---
 
+### ☁️ Beyond the Code
+- 🎨 **Creative Flow:** Often found sketching mandalas when the logic gets too heavy.
+- ✈️ **Exploring:** Love documenting travels through virtual diaries.
+- 🍵 **Vibe:** Deeply into minimalist design and "Pinterest-perfect" workspaces.
+
 ### 🛠 Tech Stack
 
 <h4 align="center">💻 Languages</h4>
@@ -96,3 +101,16 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://komarev.com/ghpvc/?username=vartikadwivedi2005-code&color=9C27B0&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vartikadwivedi2005-code&theme=tokyonight&layout=compact" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/vartikadwivedi2005-code/YOUR-REPO-NAME">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vartikadwivedi2005-code&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
