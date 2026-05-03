@@ -38,6 +38,10 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 - ✈️ **Exploring:** Love documenting travels through virtual diaries.
 - 🍵 **Vibe:** Deeply into minimalist design and "Pinterest-perfect" workspaces.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
+
 ### 🛠 Tech Stack
 
 <h4 align="center">💻 Languages</h4>
@@ -107,9 +111,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vartikadwivedi2005-code&color=9C27B0&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
