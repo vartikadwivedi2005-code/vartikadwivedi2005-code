@@ -17,7 +17,9 @@
   </table>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
 
 ### 🎨 About Me
 I am a **Creative Coder & Mandala Artist** with a passion for blending intricate visual art with structured code.
@@ -27,7 +29,9 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 * 🎨 **Artistry:** Specialist in **Mandala Art**, bringing intricate design to digital spaces.
 * 💬 **Ask me about:** The intersection of art and programming.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
 
 ### ☁️ Beyond the Code
 - 🎨 **Creative Flow:** Often found sketching mandalas when the logic gets too heavy.
@@ -55,7 +59,9 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
 
 
 ### 📈 Activity & Coding Stats
@@ -68,7 +74,9 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vartikadwivedi2005-code&bg_color=0D1117&color=9C27B0&line=9C27B0&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true" height="180" />
@@ -87,7 +95,9 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Motto" />
@@ -98,18 +108,13 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vartikadwivedi2005-code&color=9C27B0&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vartikadwivedi2005-code&theme=tokyonight&layout=compact" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/vartikadwivedi2005-code/YOUR-REPO-NAME">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vartikadwivedi2005-code&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
