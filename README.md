@@ -126,13 +126,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
     <i>"Thank you for scrolling through my digital canvas! Let's build something beautiful together."</i>
   </font>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="50%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
 </p>
 
-
-<p align="center">
-  <b>Thanks for being visitor number:</b><br>
-  <img src="https://komarev.com/ghpvc/?username=vartikadwivedi2005-code&color=9C27B0&style=flat-square&label=GUESTS" alt="Visitors" />
-  <br>
-  <i>Hope you found something inspiring here! ✨</i>
-</p>
