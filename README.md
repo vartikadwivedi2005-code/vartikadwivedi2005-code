@@ -119,3 +119,12 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
 </p>
+
+<p align="center">
+  <br>
+  <font face="Georgia" color="#6A1B9A" size="4">
+    <i>"Thank you for scrolling through my digital canvas! Let's build something beautiful together."</i>
+  </font>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="50%"/>
+</p>
