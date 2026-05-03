@@ -85,8 +85,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 
 <p align="center">
-  <b>✨ Daily Motto ✨</b><br>
-  <i>"Code is the canvas, and logic is the brush."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Motto" />
 </p>
 
 <p align="center">
