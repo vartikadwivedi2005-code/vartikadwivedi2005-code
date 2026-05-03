@@ -96,9 +96,3 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://komarev.com/ghpvc/?username=vartikadwivedi2005-code&color=9C27B0&style=flat-square&label=PROFILE+VIEWS" alt="Visitors" />
 </p>
 
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/vartikadwivedi2005-code">
-    <img src="https://img.shields.io/badge/Support%20My%20Art-9C27B0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-  </a>
-</p>
