@@ -84,9 +84,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 ---
 
-
-
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Motto" />
 </p>
@@ -95,9 +92,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vartikadwivedi2005-code&repo=YOUR_BEST_REPO&theme=tokyonight&hide_border=true" />
-</p>
+
 
 
 <p align="center">
