@@ -78,12 +78,13 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vartikadwivedi2005-code&bg_color=0D1117&color=9C27B0&line=9C27B0&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
-</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
 </p>
 
 ### 📬 Connect with Me
