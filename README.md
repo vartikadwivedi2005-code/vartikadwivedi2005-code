@@ -135,7 +135,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 </p>
 
 
-
 <p align="center">
   <br>
   <font face="Georgia" color="#6A1B9A" size="4">
