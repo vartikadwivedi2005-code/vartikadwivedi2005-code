@@ -91,10 +91,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
-</p>
-
 ### 🏆 Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -102,6 +98,9 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
 
 ### 📬 Connect with Me
 <p align="center">
