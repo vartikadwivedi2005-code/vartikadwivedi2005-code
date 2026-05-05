@@ -91,9 +91,15 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
 </p>
 
-### Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vartikadwivedi2005-code&theme=tokyonight&no-bg=true&column=7" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
+
+### 🏆 Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vartikadwivedi2005-code&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="Vartika's Trophies" />
+  </a>
 </p>
 
 
