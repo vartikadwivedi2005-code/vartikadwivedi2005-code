@@ -91,6 +91,12 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
 </p>
 
+### Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vartikadwivedi2005-code&theme=tokyonight&no-bg=true&column=7" />
+</p>
+
+
 ### 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vartika-dwivedi-38b638313" target="blank">
