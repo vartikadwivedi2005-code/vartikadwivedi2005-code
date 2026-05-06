@@ -141,6 +141,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
     <i>"Thank you for scrolling through my digital canvas! Let's build something beautiful together."</i>
   </font>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="10%"/>
 </p>
 
