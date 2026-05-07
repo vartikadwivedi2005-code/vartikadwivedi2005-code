@@ -87,8 +87,8 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 </p>
 
 <p align="center">
-  <!-- GitHub Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=tokyonight&hide_border=true&stroke=9C27B0&ring=9C27B0&fire=9C27B0" height="160" />
+  <!-- GitHub Contribution Streak - Optimized Version -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=tokyonight&hide_border=true&stroke=9C27B0&ring=9C27B0&fire=9C27B0&currStreakNum=9C27B0" alt="Vartika's GitHub Streak" />
 </p>
 
 <p align="center">
