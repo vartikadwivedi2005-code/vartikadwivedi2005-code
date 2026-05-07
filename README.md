@@ -79,21 +79,20 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 ### 📈 Activity & Coding Stats
 
 <p align="center">
-  <!-- Numeric Stats Card (This was likely what was missing) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vartikadwivedi2005-code&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=9C27B0&icon_color=9C27B0&text_color=ffffff" height="180" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true&title_color=9C27B0&text_color=ffffff" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <!-- GitHub Contribution Streak - Optimized Version -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vartikadwivedi2005-code&theme=tokyonight&hide_border=true&stroke=9C27B0&ring=9C27B0&fire=9C27B0&currStreakNum=9C27B0" alt="Vartika's GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Visual Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vartikadwivedi2005-code&bg_color=0D1117&color=9C27B0&line=9C27B0&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vartikadwivedi2005-code&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
 </p>
 
 ### 🏆 Trophies
