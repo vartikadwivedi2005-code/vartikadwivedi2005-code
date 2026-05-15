@@ -144,3 +144,7 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Coding+is+the+art+of+logic.;Creativity+takes+courage.;Stay+curious.+Stay+creative." alt="Quote Animation" />
+</p>
+
