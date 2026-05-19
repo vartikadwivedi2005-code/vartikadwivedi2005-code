@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Vartika!!
+## Hi there 👋, I'm Vartika !
 
 <div align="center">
   <table border="0">
