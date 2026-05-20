@@ -111,8 +111,8 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **🌐 Portfolio Website** | A minimalist, elegant space showcasing my code and canvas. | `HTML` `CSS` `JS` |  [Repo](https://github.com/vartikadwivedi2005-code/Portfolio_web.git) |
-| **🐍 Snake Game** | Classic interactive puzzle with smooth control logic. | `Python/Java/JS` | [Play Now](YOUR_SNAKE_GAME_LIVE_LINK) / [Repo](https://github.com/vartikadwivedi2005-code/snakeGame_Vartika.git)|
-| **❌ Tic-Tac-Toe** | Elegant, zero-lag interactive board game. | `Core Languages` | [Try It](YOUR_TICTACTOE_LIVE_LINK) / [Repo](YOUR_TICTACTOE_REPO_LINK) |
+| **🐍 Snake Game** | Classic interactive puzzle with smooth control logic. | `Python/Java/JS` |  / [Repo](https://github.com/vartikadwivedi2005-code/snakeGame_Vartika.git)|
+| **❌ Tic-Tac-Toe** | Elegant, zero-lag interactive board game. | `Core Languages` |  [Repo](https://github.com/vartikadwivedi2005-code/Tic-Tac-Toe.git) |
 </p>
 
 <p align="center">
