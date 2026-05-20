@@ -104,6 +104,17 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
+
+### 🚀 Featured Creations
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🌐 Portfolio Website** | A minimalist, elegant space showcasing my code and canvas. | `HTML` `CSS` `JS` | [Live Site](YOUR_PORTFOLIO_LINK) / [Repo](YOUR_PORTFOLIO_REPO_LINK) |
+| **🐍 Snake Game** | Classic interactive puzzle with smooth control logic. | `Python/Java/JS` | [Play Now](YOUR_SNAKE_GAME_LIVE_LINK) / [Repo](YOUR_SNAKE_GAME_REPO_LINK) |
+| **❌ Tic-Tac-Toe** | Elegant, zero-lag interactive board game. | `Core Languages` | [Try It](YOUR_TICTACTOE_LIVE_LINK) / [Repo](YOUR_TICTACTOE_REPO_LINK) |
 </p>
 
 ### 📬 Connect with Me
@@ -147,4 +158,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Coding+is+the+art+of+logic.;Creativity+takes+courage.;Stay+curious.+Stay+creative." alt="Quote Animation" />
 </p>
+
+
 
