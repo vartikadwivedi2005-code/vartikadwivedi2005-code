@@ -104,8 +104,6 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
 </p>
 
 ### 🚀 Featured Creations
