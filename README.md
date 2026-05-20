@@ -115,6 +115,10 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 | **❌ Tic-Tac-Toe** | Elegant, zero-lag interactive board game. | `Core Languages` | [Try It](YOUR_TICTACTOE_LIVE_LINK) / [Repo](YOUR_TICTACTOE_REPO_LINK) |
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
+</p>
+
 ### 📬 Connect with Me
 <p align="center">
   <a href="https://github.com/vartikadwivedi2005-code" target="blank">
