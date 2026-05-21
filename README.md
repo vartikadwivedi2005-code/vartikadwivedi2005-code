@@ -110,10 +110,10 @@ I am a **Creative Coder & Mandala Artist** with a passion for blending intricate
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🌐 Portfolio Website** | A minimalist, elegant space showcasing my code and canvas. | `HTML` `CSS` |  [Repo](https://github.com/vartikadwivedi2005-code/Portfolio_web.git) |
-| **🐍 Snake Game** | Classic interactive puzzle with smooth control logic. | `HTML/CSS/JS` |   [Repo](https://github.com/vartikadwivedi2005-code/snakeGame_Vartika.git)|
-| **❌ Tic-Tac-Toe** | Elegant, zero-lag interactive board game. | `HTML/CSS/JS` |  [Repo](https://github.com/vartikadwivedi2005-code/Tic-Tac-Toe.git) |
-</p>
+| **🧠 Interactive Quiz** | Sleek, timed quiz engine featuring dynamic feedback and state guards. | `HTML/CSS/JS` | [Repo](https://github.com/vartikadwivedi2005-code/YOUR_QUIZ_REPO_NAME_HERE) |
+| **🌐 Portfolio Website** | A minimalist, elegant space showcasing my code and canvas. | `HTML` `CSS` | [Repo](https://github.com/vartikadwivedi2005-code/Portfolio_web.git) |
+| **🐍 Snake Game** | Classic interactive puzzle with smooth control logic. | `HTML/CSS/JS` | [Repo](https://github.com/vartikadwivedi2005-code/snakeGame_Vartika.git) |
+| **❌ Tic-Tac-Toe** | Elegant, zero-lag interactive board game. | `HTML/CSS/JS` | [Repo](https://github.com/vartikadwivedi2005-code/Tic-Tac-Toe.git) |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9C27B0&height=2&section=header" width="100%"/>
