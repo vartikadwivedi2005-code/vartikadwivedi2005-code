@@ -22,9 +22,9 @@ jobs:
     
     steps:
       # Generates a game from a github user contributions graph, output an svg animation
-      # Pinned to Platane/snk/svg-only@v3.2.0 (SHA: 4a26d24660)
+      # Pinned to Platane/snk/svg-only v3.2.0 full commit SHA
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@4a26d24660a95bc101b54448ff963162b48e3592
+        uses: Platane/snk/svg-only@1853ad2de8eff838d745f47d480da57f00d8beeb
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -32,9 +32,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       # Push the content of <build_dir> to a branch
-      # Pinned to crazy-max/ghaction-github-pages@v3.1.0 (SHA: dbfe77c43b)
+      # Pinned to crazy-max/ghaction-github-pages v4.1.0 full commit SHA
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@dbfe77c43bca42672728416ca23719c8f6153673
+        uses: crazy-max/ghaction-github-pages@65426c6d04db91901b0f190bc1b91c712fc6e737
         with:
           target_branch: output
           build_dir: dist
