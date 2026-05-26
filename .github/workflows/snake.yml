@@ -21,9 +21,10 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Generates a game from a github user contributions graph, output a svg animation at <summary_out_path>
+      # Generates a game from a github user contributions graph, output an svg animation
+      # Pinned to Platane/snk/svg-only@v3.2.0 (SHA: 4a26d24660)
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@4a26d24660a95bc101b54448ff963162b48e3592
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -31,9 +32,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       # Push the content of <build_dir> to a branch
-      # The content will be available at https://raw.githubusercontent.com/<user>/<repo>/<branch>/<file>
+      # Pinned to crazy-max/ghaction-github-pages@v3.1.0 (SHA: dbfe77c43b)
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@dbfe77c43bca42672728416ca23719c8f6153673
         with:
           target_branch: output
           build_dir: dist
